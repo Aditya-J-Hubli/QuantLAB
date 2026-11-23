@@ -1,0 +1,10 @@
+# Visual Studio build & cache folders
+.vs/
+x64/
+x86/
+Debug/
+Release/
+*.user
+*.suo
+*.pdb
+*.exe
